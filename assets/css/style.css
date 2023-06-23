@@ -450,7 +450,9 @@ section .container {
   font-family: "Poppins", sans-serif;
   color: #fff;
 }
-
+.skill svg{
+  width:2rem;
+}
 .skills .progress .skill .val {
   float: right;
   font-style: normal;
